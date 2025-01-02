@@ -9,3 +9,8 @@ const f=()=>{
    alert("700")
     return 700
 }
+
+const e=()=>{
+    console.log("my name is chana rivka");
+    
+}
