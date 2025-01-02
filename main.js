@@ -4,4 +4,8 @@ const func=()=>{
 
 const func2=()=>{
     return 'a'
+
+const f=()=>{
+    return 700
+
 }
